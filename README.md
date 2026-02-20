@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipe 👋
 
 - 🔭 Hoje trabalho como analista em um Banco
-- 📖 Estud programacao
+- 📖 Estudo programação
 - 🏋️‍♂️ Gosto muito de aprender e conquistar meus obejtivos
 - 🤔 Procuro sempre me desenvolver mais
 - 👨‍💻 Sou um ótimo profissional
@@ -22,7 +22,7 @@
 
 <a href="https://instagram.com/j.araujoac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/QTQaq3fU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:fewlpzaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href ="mailto:fewlpzaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-araujo-for" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
